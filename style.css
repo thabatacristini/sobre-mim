@@ -1,0 +1,69 @@
+h1 {
+    text-align: center;
+    color:rgb(226, 173, 217);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+.sobreButtonContact button {
+    background-color: rgb(236, 153, 181);
+    border-color: rgb(241, 54, 201);
+    border-radius: 40%;
+    color: rgb(160, 46, 84);
+    display: block;
+    font-family:cursive;
+    font-size: larger;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+} 
+
+.sobreBoxInfos h2{
+    color:rgb(226, 173, 217);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.sobreLineTitle {
+    text-align: center;
+    color:rgb(226, 173, 217);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.textSobreMim {
+    color:aliceblue 
+}
+
+.textSobreMimNegrito {
+    font-weight: bold;
+}
+
+.textSobreMimTachado {
+    text-decoration: line-through;
+}
+
+.textSobreMimNegEIt{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.sobreLineNegEIt {
+    text-align: center;
+    color:rgb(226, 173, 217);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;     
+} 
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+li {
+    color: aliceblue;
+}
+
+
